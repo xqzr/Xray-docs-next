@@ -1,0 +1,1 @@
+const e={key:"v-3bde4c20",path:"/config/outbounds/",title:"Outbounds 可用协议列表",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"协议列表",slug:"协议列表",children:[]}],filePathRelative:"config/outbounds/README.md",git:{updatedTime:1616738467e3,contributors:[{name:"JimhHan",email:"50871214+JimhHan@users.noreply.github.com",commits:3}]}};export{e as data};
